@@ -28,6 +28,8 @@ bool webstuffhappening = false;
 
 extern Nugget_Interface payloadSelector;
 
+foobar dingdong
+
 Adafruit_NeoPixel strip {1, 12, NEO_GRB + NEO_KHZ400 };
 
 const char *ssid = "RubberNugget";
