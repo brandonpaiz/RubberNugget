@@ -36,3 +36,5 @@ To access the web interface, connect to the `RubberNugget` AP with the password 
     - Live command preview
     - Deploy payloads in 3 clicks
     - Reactive RGB NeoPixel
+
+Test linear change
